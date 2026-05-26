@@ -26,10 +26,10 @@ The objective of this project is to transform raw retail data into actionable bu
 ## Project Structure
 
 ```text
-Dashboard_Images/
-Dataset/
-PowerBI/
 SQL/
+PowerBI/
+Dataset/
+Dashboard_Images/
 ```
 ---
 ## Key Analysis Performed
