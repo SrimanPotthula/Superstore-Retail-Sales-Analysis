@@ -154,7 +154,7 @@ FROM fact_sales
 GROUP BY discount
 ORDER BY discount;
 
-# Total Average sales
+# Average sales
 SELECT avg(sales) AS Avg_sales
 FROM fact_sales;
 
@@ -194,6 +194,4 @@ HAVING month BETWEEN 7 AND 12;
 SELECT sum(sales) as total_sales
 FROM fact_sales 
 WHERE month(order_date) BETWEEN 7 AND 12;
-
-
 
