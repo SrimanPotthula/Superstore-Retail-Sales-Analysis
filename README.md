@@ -1,4 +1,4 @@
-# 🛒 Superstore Retail Sales Analysis
+# Superstore Retail Sales Analysis
 
 ## Project Overview
 This project focuses on analyzing Superstore retail sales data to identify business trends, sales performance, profitability, and customer insights using **MySQL** and **Power BI**.
