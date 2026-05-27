@@ -54,7 +54,7 @@ Dashboard_Images/
 ## Dashboard Preview
 
 ### Sales Dashboard
-<img width="1334" height="749" alt="SALES DASHBOARD SCREENSHOT" src="https://github.com/user-attachments/assets/cad80b2f-8085-4469-94fd-889e773cc906" />
+<img width="1325" height="744" alt="Screenshot 2026-05-27 115845" src="https://github.com/user-attachments/assets/e497aef6-a5fd-47b3-b170-78dcbb6e7c23" />
 
 ## Files Included
 - Dataset File
